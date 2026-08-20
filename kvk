@@ -1,0 +1,361 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KVK Ondernemerskalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KVK Belangrijke Data voor Ondernemers
+BEGIN:VEVENT
+SUMMARY:Bouwvak regio midden
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260822
+DESCRIPTION:Terugvaladvies collectieve bedrijfssluiting bouw.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uiterste datum aanvragen toeslagen 2025
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+DESCRIPTION:Uiterste datum voor het aanvragen van zorgtoeslag\, huurtoeslag en kindgebonden budget over 2025.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uiterste aangifte- en betaaldatum btw maand juli 2026
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+DESCRIPTION:Voor ondernemers die btw-aangifte doen per maand.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uiterste datum aan- of afmelden KOR (Q4)
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+DESCRIPTION:Aan- of afmelden Kleineondernemersregeling per vierde kwartaal.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prinsjesdag 2026
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+DESCRIPTION:Bekijk de bekendmakingen en wijzigingen voor ondernemers.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uiterste aangifte- en betaaldatum btw maand augustus 2026
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+DESCRIPTION:Voor ondernemers die per maand btw-aangifte doen.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline terugvragen btw uit andere EU-landen
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+DESCRIPTION:Uiterste datum waarop je in andere EU-landen betaalde btw over zakelijke uitgaven kunt terugvragen.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uiterste datum tekenen/registreren intentieverklaring geruisloze inbreng bv
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+DESCRIPTION:Met terugwerkende kracht tot 1 januari van dit jaar.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uiterste datum oprichten bv met ruisende inbreng
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+DESCRIPTION:Geldt voor bv's waarvoor voor 1 april van dit jaar de intentieverklaring is getekend.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herfstvakantie regio noord
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261019
+DESCRIPTION:Schoolvakantie regio noord.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herfstvakantie regio midden en zuid
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261026
+DESCRIPTION:Schoolvakantie regio midden en zuid.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uiterste aangifte- en betaaldatum btw Q3 2026
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+DESCRIPTION:Voor ondernemers die btw-aangifte doen per kwartaal.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uiterste aangifte- en betaaldatum btw maand september 2026
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+DESCRIPTION:Voor ondernemers die btw-aangifte doen per maand.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dag van de BHV
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+DESCRIPTION:Heb jij je bedrijfshulpverlening op orde?
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uiterste deponeringsdatum jaarrekening voor bv
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+DESCRIPTION:Geldt voor bv's waarin alle aandeelhouders ook bestuurder of commissaris zijn.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pensioen3Daagse
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261113
+DESCRIPTION:Informatiedagen over het opbouwen van pensioen als ondernemer.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uiterste aangifte- en betaaldatum btw maand oktober 2026
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+DESCRIPTION:Geldt voor ondernemers die btw-aangifte doen per maand.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uiterste datum aan- of afmelden KOR (Q1 volgend jaar)
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+DESCRIPTION:Aan- of afmelden Kleineondernemersregeling per eerste kwartaal volgend jaar.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kerstvakantie scholen
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20270104
+DESCRIPTION:Kerstvakantie scholen regio noord\, midden en zuid.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eerste en Tweede Kerstdag
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261227
+DESCRIPTION:Officiële feestdagen.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uiterste deponeringsdatum jaarrekening 2024 (met maximaal uitstel)
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DESCRIPTION:Uiterste deponeringsdatum voor bv's met maximaal uitstel.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uiterste aangifte- en betaaldatum btw maand november 2026
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DESCRIPTION:Geldt voor ondernemers die aangifte doen per maand.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peildatum rekening-courant maatregel (DGA's)
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DESCRIPTION:Peildatum voor lenen van eigen bv boven € 500.000 (Box 2).
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nieuwjaarsdag & Belangrijke Wetswijzigingen
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+DESCRIPTION:Officiële feestdag + ingang nieuwe wetten en regels voor mkb'ers\, zzp'ers en starters.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uiterste aangifte- en betaaldatum btw Q4 2026 / Dec 2026
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+DESCRIPTION:Geldt voor btw-aangifte per kwartaal (Q4 2026) en per maand (december 2026).
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uiterste datum aanleveren UBD (Uitbetaalde Bedragen aan Derden)
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+DESCRIPTION:Aanleveren gegevens over uitbetaalde bedragen aan personen die niet in dienst/ondernemer zijn.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Start Ramadan 2027
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+DESCRIPTION:Start van de ramadan.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Voorjaarsvakantie regio zuid
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270222
+DESCRIPTION:Voorjaarsvakantie scholen regio zuid.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Voorjaarsvakantie regio noord en midden
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270301
+DESCRIPTION:Voorjaarsvakantie scholen regio noord en midden.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uiterste aangifte- en betaaldatum btw maand januari 2027
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+DESCRIPTION:Geldt voor ondernemers die aangifte doen per maand.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Start aangifteperiode inkomstenbelasting 2026
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+DESCRIPTION:Startstot het doen van de aangifte inkomstenbelasting over het belastingjaar 2026.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uiterste datum aan- of afmelden KOR (Q2)
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+DESCRIPTION:Aan- of afmelden Kleineondernemersregeling per tweede kwartaal.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suikerfeest (Eid-al-Fitr)
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+DESCRIPTION:Religieuze feestdag.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NLDoet
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270314
+DESCRIPTION:Grootste vrijwilligersactie van Nederland.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goede Vrijdag
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+DESCRIPTION:Officiële feestdag.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eerste en Tweede Paasdag
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270330
+DESCRIPTION:Officiële feestdagen.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uiterste datum oprichten bv met geruisloze inbreng
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+DESCRIPTION:Geldt voor bv met geruisloze inbreng waarvoor vorig jaar voor 1 oktober de intentieverklaring is getekend.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uiterste datum tekenen/registreren intentieverklaring ruisende inbreng bv
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+DESCRIPTION:Met terugwerkende kracht tot 1 januari van dit jaar.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uiterste aangifte- en betaaldatum btw feb 2027 & jaar 2026
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+DESCRIPTION:Geldt voor maandaangifte februari 2027 en jaaraangifte 2026.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meivakantie scholen
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270503
+DESCRIPTION:Meivakantie scholen regio noord\, midden en zuid (scholen kunnen een week uitbreiden).
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Koningsdag
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+DESCRIPTION:Nationale feestdag.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uiterste aangifte- en betaaldatum btw Q1 2027 / Maart 2027
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+DESCRIPTION:Geldt voor kwartaalaangifte (Q1 2027) en maandaangifte (maart 2027).
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uiterste datum indienen aangifte Inkomstenbelasting 2026
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+DESCRIPTION:Uiterste datum indienen aangifte inkomstenbelasting over 2026 (tenzij uitstel is aangevraagd).
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nationale Dodenherdenking
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+DESCRIPTION:Winkels moeten om 19:00 uur sluiten (tenzij de gemeente toestemming geeft om open te blijven).
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bevrijdingsdag
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+DESCRIPTION:Officiële feestdag.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hemelvaartsdag
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+DESCRIPTION:Officiële feestdag.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eerste en Tweede Pinksterdag
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270518
+DESCRIPTION:Officiële feestdagen.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Offerfeest
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+DESCRIPTION:Religieuze feestdag.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uiterste aangifte- en betaaldatum btw april 2027 & VPB 2025
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+DESCRIPTION:Uiterste datum btw-aangifte april 2027 en uiterste datum aangifte vennootschapsbelasting (VPB) 2025.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uiterste datum aan- of afmelden KOR (Q3)
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+DESCRIPTION:Aan- of afmelden Kleineondernemersregeling per derde kwartaal.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uiterste aangifte- en betaaldatum btw maand mei 2027
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+DESCRIPTION:Geldt voor ondernemers die aangifte doen per maand.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingangsdatum wetswijzigingen & Vervaldatum vakantiedagen
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+DESCRIPTION:Nieuwe wetswijzigingen gaan in + opgebouwde wettelijke vakantiedagen van vorig jaar vervallen.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zomervakantie regio noord
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270823
+DESCRIPTION:Schoolvakantie regio noord.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zomervakantie regio midden
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270830
+DESCRIPTION:Schoolvakantie regio midden.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zomervakantie regio zuid
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270906
+DESCRIPTION:Schoolvakantie regio zuid.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bouwvak regio noord
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270814
+DESCRIPTION:Terugvaladvies collectieve bedrijfssluiting bouw regio noord.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bouwvak regio midden
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270821
+DESCRIPTION:Terugvaladvies collectieve bedrijfssluiting bouw regio midden.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bouwvak regio zuid
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270828
+DESCRIPTION:Terugvaladvies collectieve bedrijfssluiting bouw regio zuid.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uiterste aangifte- en betaaldatum btw Q2 2027 / Juni 2027
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+DESCRIPTION:Geldt voor kwartaalaangifte (Q2 2027) en maandaangifte (juni 2027).
+END:VEVENT
+END:VCALENDAR
